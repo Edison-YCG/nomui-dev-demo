@@ -28,3 +28,17 @@ body {
 .wt-tab-s .nom-tab-list .nom-list-content .nom-list-item-wrapper a {
   padding: 18px 0 !important;
 }
+.wt-tab-s-steps .nom-step-item-process .nom-step-item-icon {
+  border: 1px solid var(--nom-color-primary) !important;
+  background: var(--nom-color-primary) !important;
+  color: var(--nom-step-item-icon-bg-color) !important;
+}
+.wt-tab-s-steps .nom-step-item-process .nom-step-item-title {
+  color: var(--nom-color-primary) !important;
+}
+.wt-tab-s-steps .nom-step-item-finish .nom-step-item-title {
+  color: var(--nom-color-primary) !important;
+}
+.wt-tab-s-steps .nom-step-item-icon {
+  font-size: 1.45rem !important;
+}
