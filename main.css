@@ -1,0 +1,30 @@
+body {
+  --nom-color-primary: #0062D6;
+  --nom-color-primary-hover: #122eba;
+}
+.wt-tab-s-btn {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.wt-tab-s-btn .nom-button {
+  font-size: 16px;
+  position: absolute;
+  right: 0;
+  top: 12px;
+}
+.wt-tab-s .nom-tab-list {
+  border-bottom: 1px solid #ddd;
+  font-size: 16px;
+}
+.wt-tab-s .nom-tab-list .nom-list-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  justify-content: center;
+}
+.wt-tab-s .nom-tab-list .nom-list-content .nom-list-item-wrapper {
+  margin: 0 30px;
+}
+.wt-tab-s .nom-tab-list .nom-list-content .nom-list-item-wrapper a {
+  padding: 18px 0 !important;
+}
